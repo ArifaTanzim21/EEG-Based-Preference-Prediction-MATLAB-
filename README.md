@@ -1,5 +1,5 @@
 
-### EEG-Based Preference Prediction
+# EEG-Based Preference Prediction
 
 A comparative analysis of **Band-Pass Filtering (BPF)** and **Discrete Wavelet Transform (DWT)** for EEG-based product preference prediction.
 
